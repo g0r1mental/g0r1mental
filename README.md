@@ -1,12 +1,7 @@
 Badges:
   
+![Microsoft ignite ](https://user-images.githubusercontent.com/81675662/225537701-755a549d-35af-4b4e-92ad-df1b57cead8c.png)
 
-![microsoft ignite](https://user-images.githubusercontent.com/81675662/225537302-ccf47f44-3194-40ec-a03b-3aebfd891070.png)
-
-
-
-
-![unnamed (1)](https://user-images.githubusercontent.com/81675662/225535180-7d8a9e2f-8371-4f28-abe1-b15429a0d095.png)
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/g0r1mental.png" alt="TryHackMe">
