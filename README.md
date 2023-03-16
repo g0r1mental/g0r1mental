@@ -1,6 +1,6 @@
 Badges:
 
-<div style="width: 60%; height: 60%">
+<div style="width: 30%; height: 30%">
   
   ![unnamed](https://user-images.githubusercontent.com/81675662/225534899-c6891472-7c44-4d86-a713-601ceb45a18d.png)
   
